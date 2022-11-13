@@ -20,7 +20,7 @@
     "devDependencies": {
         "@ckeditor/ckeditor5-inspector": "^1.5.0",
         "webpack": "^4.41.6",
-        "webpack-cli": "^3.3.11"
+        "webpack-cli": "^3.3.12"
     },
     "dependencies": {
         "@babel/core": "^7.8.4",
